@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\modul10_103022300025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A535D7-F217-4712-A4B6-97F8DA3A956A}|modul10_103022300025\\modul10_103022300025.csproj|e:\\modul10_103022300025\\modul10_103022300025\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A535D7-F217-4712-A4B6-97F8DA3A956A}|modul10_103022300025\\modul10_103022300025.csproj|solutionrelative:modul10_103022300025\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A535D7-F217-4712-A4B6-97F8DA3A956A}|modul10_103022300025\\modul10_103022300025.csproj|e:\\modul10_103022300025\\modul10_103022300025\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A535D7-F217-4712-A4B6-97F8DA3A956A}|modul10_103022300025\\modul10_103022300025.csproj|solutionrelative:modul10_103022300025\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A535D7-F217-4712-A4B6-97F8DA3A956A}|modul10_103022300025\\modul10_103022300025.csproj|e:\\modul10_103022300025\\modul10_103022300025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A535D7-F217-4712-A4B6-97F8DA3A956A}|modul10_103022300025\\modul10_103022300025.csproj|solutionrelative:modul10_103022300025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A535D7-F217-4712-A4B6-97F8DA3A956A}|modul10_103022300025\\modul10_103022300025.csproj|e:\\modul10_103022300025\\modul10_103022300025\\modul10_103022300025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2A535D7-F217-4712-A4B6-97F8DA3A956A}|modul10_103022300025\\modul10_103022300025.csproj|solutionrelative:modul10_103022300025\\modul10_103022300025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A535D7-F217-4712-A4B6-97F8DA3A956A}|modul10_103022300025\\modul10_103022300025.csproj|e:\\modul10_103022300025\\modul10_103022300025\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2A535D7-F217-4712-A4B6-97F8DA3A956A}|modul10_103022300025\\modul10_103022300025.csproj|solutionrelative:modul10_103022300025\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\modul10_103022300025\\modul10_103022300025\\Program.cs",
+              "RelativeDocumentMoniker": "modul10_103022300025\\Program.cs",
+              "ToolTip": "E:\\modul10_103022300025\\modul10_103022300025\\Program.cs",
+              "RelativeToolTip": "modul10_103022300025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:43:45.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "E:\\modul10_103022300025\\modul10_103022300025\\MovieController.cs",
+              "RelativeDocumentMoniker": "modul10_103022300025\\MovieController.cs",
+              "ToolTip": "E:\\modul10_103022300025\\modul10_103022300025\\MovieController.cs",
+              "RelativeToolTip": "modul10_103022300025\\MovieController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIAwwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:56:33.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movie.cs",
+              "DocumentMoniker": "E:\\modul10_103022300025\\modul10_103022300025\\movie.cs",
+              "RelativeDocumentMoniker": "modul10_103022300025\\movie.cs",
+              "ToolTip": "E:\\modul10_103022300025\\modul10_103022300025\\movie.cs",
+              "RelativeToolTip": "modul10_103022300025\\movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:49:27.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\modul10_103022300025\\modul10_103022300025\\.gitignore",
+              "RelativeDocumentMoniker": "modul10_103022300025\\.gitignore",
+              "ToolTip": "E:\\modul10_103022300025\\modul10_103022300025\\.gitignore",
+              "RelativeToolTip": "modul10_103022300025\\.gitignore",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAHQAAAAYAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-28T23:46:26.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "modul10_103022300025",
+              "DocumentMoniker": "E:\\modul10_103022300025\\modul10_103022300025\\modul10_103022300025.csproj",
+              "RelativeDocumentMoniker": "modul10_103022300025\\modul10_103022300025.csproj",
+              "ToolTip": "E:\\modul10_103022300025\\modul10_103022300025\\modul10_103022300025.csproj",
+              "RelativeToolTip": "modul10_103022300025\\modul10_103022300025.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T23:43:42.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
